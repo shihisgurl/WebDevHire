@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hire Me – Web Developer for Robux</title>
+  <title>WebDevHire – Web Developer for Robux</title>
   <style>
     body {
       margin: 0;
@@ -76,12 +76,12 @@
 <body>
 
   <header>
-    <h1>Hire Me for Robux 🌿</h1>
-    <p>I make clean, custom websites for Roblox creators & studios</p>
+    <h1>WebDevHire 🌿</h1>
+    <p>Custom websites for Roblox creators & studios – paid in Robux</p>
   </header>
 
   <div class="intro">
-    <p>Choose the right plan for your project. Prices are in Robux (group funds). DM me on Discord (<strong>shihisgurl</strong>) to start!</p>
+    <p>Affordable, clean website development starting at just 1,000 Robux. DM me on Discord (<strong>shihisgurl</strong>) to hire me!</p>
   </div>
 
   <section class="pricing-section">
@@ -132,7 +132,7 @@
 
   <div class="contact">
     <p>💬 DM me on Discord: <strong>shihisgurl</strong></p>
-    <p>Or check out my past work: <a href="https://shihisgurl.github.io/symbiotic-sanctuaries-site/" target="_blank">Symbiotic Sanctuaries</a></p>
+    <p>Check out my past project: <a href="https://shihisgurl.github.io/symbiotic-sanctuaries-site/" target="_blank">Symbiotic Sanctuaries</a></p>
   </div>
 
 </body>
